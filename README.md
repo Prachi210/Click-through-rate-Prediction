@@ -1,4 +1,4 @@
-Problem Statement
+**Problem Statement:**
 Most of the websites you visit include ads. The online advertising industry is huge, and players such as Google, Amazon, and Facebook generate billions of dollars by targeting the correct audiences with relevant ads. Most of the decisions about ads are data-driven solutions such as the following: 
 How do you know which ad to use and who to target?
 Many companies advertise products in the same category, so how do you decide whose ad to display?
